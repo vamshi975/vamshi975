@@ -11,12 +11,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vamshi975&layout=compact)](https://github.com/vamshi975/github-readme-stats&layout=compact)
 
 <img alt="my_stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamshi975&layout=compact"/>
+<img alt="my_stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vamshi975"/>
 -->
 
-<img alt="my_stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vamshi975"/>
-<img alt="my_stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vamshi975&include_all_commits=true"/>
+<img alt="my_stats" align="left" width="67%" src="https://github-readme-stats.vercel.app/api?username=vamshi975&include_all_commits=true"/>
 
-<img alt="my_stats" align="left" width="96%" height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamshi975&include_all_commits=true"/>
+<img alt="my_stats" align="left" width="67%" height="5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamshi975&include_all_commits=true"/>
 
 
 
