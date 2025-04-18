@@ -1,6 +1,19 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vamshi975)](https://github.com/vamshi975/github-readme-stats)
+<!--
+[![Vamshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vamshi975&show_icons=true)](https://github.com/vamshi975/github-readme-stats&show_icons=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vamshi975)](https://github.com/vamshi975/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vamshi975&langs_count=8)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vamshi975&layout=compact)](https://github.com/vamshi975/github-readme-stats&layout=compact)
+-->
+
+<img alt="my_stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vamshi975"/>
+<img alt="my_stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamshi975&layout=compact"/>
+
 
 <!--
 **vamshi975/vamshi975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
