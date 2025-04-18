@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vamshi975)](https://github.com/vamshi975/github-readme-stats)
+
 <!--
 **vamshi975/vamshi975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
