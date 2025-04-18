@@ -14,6 +14,8 @@
 <img alt="my_stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vamshi975"/>
 <img alt="my_stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamshi975&layout=compact"/>
 
+<img alt="my_stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vamshi975\&include_all_commits=true"/>
+
 
 <!--
 **vamshi975/vamshi975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
